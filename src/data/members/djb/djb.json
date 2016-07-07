@@ -1,0 +1,44 @@
+{
+  "name": "Dipta J. Basu",
+  "location": "Germantown, Maryland",
+  "bio": "I'm a data-driven web developer committed to advancing greater equality and opportunity.",
+  "socialProfiles": {
+    "freecodecamp": "https://www.freecodecamp.com/diptajbasu",
+    "github": "https://github.com/diptajbasu",
+    "codepen": "http://codepen.io/diptajbasu/",
+    "facebook": "https://www.facebook.com/diptajbasu",
+    "twitter": "https://twitter.com/DiptaJBasu",
+    "dribbble": "https://dribbble.com/diptajbasu"
+  },
+  "professional": {
+    "organization": "globalgiving.org",
+    "role": "Front End Web Development"
+  },
+  "languages": [
+  	"HTML",
+  	"CSS",
+  	"JavaScript",
+  	"PHP",
+  	"SQL"
+  ],
+  "interests": [
+  	"nonprofits",
+    "online fundraising",
+    "online education",
+    "learn to code movement",
+    "writing",
+    "screencasting",
+    "vlogging",
+    "teaching",
+    "hiking",
+    "travel",
+    "minimalism",
+    "cooking",
+    "functional fitness training",
+    "productivity",
+    "fatherhood",
+    "hackathons",
+    "web development",
+    "UI/UX"
+  ]
+}
