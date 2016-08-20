@@ -1,0 +1,19 @@
+{
+  "name": "Liban Mohamed",
+  "location": "Germantown, Maryland",
+  "bio": "Front End Developer",
+  "socialProfiles": {
+    "freecodecamp": "https://www.freecodecamp.com/libanthedev",
+    "github": "https://github.com/libanthedev"
+  },
+  "languages": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "interests": [
+    "web development",
+    "startups",
+    "music production"
+  ]
+}
