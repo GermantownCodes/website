@@ -1,0 +1,43 @@
+{
+  "name": "Luciana Rushing",
+  "location": "Laytonsville, Maryland",
+  "bio": "I'm a long-time dabbler in programming and tech, currently a graphic and web designer, and on my way to becoming a full-time developer.",
+  "socialProfiles": {
+    "freecodecamp": "https://www.freecodecamp.com/thelucicode",
+    "github": "https://github.com/thelucicode",
+    "codepen": "https://codepen.io/thelucicode/",
+    "facebook": "https://www.facebook.com/luciana.rushing",
+    "twitter": "@thelucicode",
+      "linkedin": "www.linkedin.com/in/lucianarushing",
+      "habitica":"thelucicode"
+  },
+    
+  "professional": {
+    "role": "Lead Graphic and Web Designer, Application Guru"
+  },
+    
+  "languages": [
+    "HTML",
+    "CSS",
+    
+  ],
+    
+  "interests": [
+    "API data tools",
+    "true crime non-fiction",
+    "online education",
+    "writing",
+    "tech inclusivity",
+    "hiking",
+    "biking",
+    "travel",
+    "minimalism",
+    "vegan cooking",
+    "functional fitness",
+    "productivity",
+    "parenting twins",
+    "hackathons",
+    "web development",
+    "UI/UX"
+  ]
+}
