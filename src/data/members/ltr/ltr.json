@@ -8,20 +8,14 @@
     "codepen": "https://codepen.io/thelucicode/",
     "facebook": "https://www.facebook.com/luciana.rushing",
     "twitter": "@thelucicode",
-      "linkedin": "www.linkedin.com/in/lucianarushing",
-      "habitica":"thelucicode"
+    "linkedin": "www.linkedin.com/in/lucianarushing",
+    "habitica": "thelucicode"
   },
-    
-  "professional": {
-    "role": "Lead Graphic and Web Designer, Application Guru"
-  },
-    
+  "professionalRole": "Lead Graphic and Web Designer, Application Guru",
   "languages": [
     "HTML",
-    "CSS",
-    
+    "CSS"
   ],
-    
   "interests": [
     "API data tools",
     "true crime non-fiction",
