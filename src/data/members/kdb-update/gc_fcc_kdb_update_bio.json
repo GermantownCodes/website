@@ -1,0 +1,37 @@
+{
+  "name": "Kristina Brown",
+  "location": "Fredrick, Maryland",
+  "bio": "An US Navy veteran and Medical Laboratory Scientist committed to advancing in the world of software development.",
+  "socialProfiles": {
+    "freecodecamp": "https://www.freecodecamp.com/kristinab-mls-secdev",
+    "github": "https://github.com/KristinaB-MLS-SecDev",
+    "codepen": "http://codepen.io/anew_beginning_wo_limit/",
+    "facebook": "https://www.facebook.com/kristinagmtabrown",
+    "twitter": "https://twitter.com/professlife_luv",
+    "linkedin": "https://www.linkedin.com/in/kristina-brown-mba-mls-ascp-cm-security-290b0271"
+  },
+  "professional": {
+    "organization": "Walter Reed National Military Medical Center",
+    "role": "Laboratory IT Specialist"
+  },
+  "languages": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "interests": [
+    "online education",
+    "learn to code movement",
+    "teaching",
+    "travel",
+    "cooking",
+    "hackathons",
+    "web development",
+    "science",
+    "graphic novels",
+    "animation",
+    "music of all genres",
+    "crime  and political novels"
+    "PC gaming"
+  ]
+}
