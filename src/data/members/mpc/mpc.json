@@ -1,0 +1,30 @@
+{
+  "name": "Mike Chi",
+  "location": "Gaithersburg, Maryland",
+  "bio": "I'm a long-time dabbler in programming and tech, currently a graphic and web designer, and on my way to becoming a full-time developer.",
+  "socialProfiles": {
+    "freecodecamp": "https://www.freecodecamp.com/mikechi4",
+    "github": "https://github.com/mikechi4",
+    "codepen": "https://codepen.io/thelucicode/",
+    "facebook": "https://www.facebook.com/mike.chi.50",
+    "linkedin": "www.linkedin.com/in/mikepchi"
+  },
+  "professionalRole": "Currently looking for web developer roles!",
+  "languages": [
+    "HTML",
+    "CSS",
+    "Javascript",
+    "Node",
+    "Angular",
+    "React",
+    "SQL"
+  ],
+  "interests": [
+    "Hiking",
+    "Coding",
+    "Travel",
+    "Tech news",
+    "Music",
+    "Reading"
+  ]
+}
